@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me :
 
-Full-Stack with 5 years of professional experience building modern, scalable, and high-performance applications for web and
+Full-Stack with 5+ years of professional experience building modern, scalable, and high-performance applications for web and
 mobile platforms. Strong expertise within the React ecosystem and a focus on applying modern development approaches,
 clean architecture, and best practices throughout the development process. Experienced in designing efficient solutions,
 writing maintainable code, and delivering fast and reliable products. Experienced in developing applications across frontend,
