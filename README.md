@@ -16,12 +16,7 @@ experience. Passionate about web development, particularly React, and continuous
 and native technologies<br>
 
 🇺🇦 Ukrainian - native<br>
-🇬🇧 English - upper-intermediate
-
-### Roadmap 2024 :
-
-✍️ - **Improve:** `Next.js` | `TS` | `React Native` <br>
-📚 - **Learn:** `Product managment` <br>
+🇬🇧 English - intermediate
 
 ### My stack and tools :
 
