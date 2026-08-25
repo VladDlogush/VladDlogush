@@ -16,7 +16,7 @@ experience. Passionate about web development, particularly React, and continuous
 and native technologies.<br>
 
 🇺🇦 Ukrainian - native<br>
-🇬🇧 English - intermediate
+🇬🇧 English - upper-intermediate
 
 ### My stack and tools :
 
