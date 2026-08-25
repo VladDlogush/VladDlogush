@@ -13,7 +13,7 @@ mobile, and backend layers, implementing complex UI and business logic, optimizi
 strategies, and integrating features such as authentication, push notifications, analytics, payments, chat systems, and media
 feeds. Focused on building fast, reliable, and maintainable products with a strong emphasis on performance and user
 experience. Passionate about web development, particularly React, and continuously improving expertise in cross-platform
-and native technologies<br>
+and native technologies.<br>
 
 🇺🇦 Ukrainian - native<br>
 🇬🇧 English - intermediate
