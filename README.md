@@ -5,15 +5,15 @@
 
 ### 👨‍💻 About Me :
 
-Full-Stack with 5+ years of professional experience building modern, scalable, and high-performance applications for web and
-mobile platforms. Strong expertise within the React ecosystem and a focus on applying modern development approaches,
-clean architecture, and best practices throughout the development process. Experienced in designing efficient solutions,
-writing maintainable code, and delivering fast and reliable products. Experienced in developing applications across frontend,
-mobile, and backend layers, implementing complex UI and business logic, optimizing API communication with caching
-strategies, and integrating features such as authentication, push notifications, analytics, payments, chat systems, and media
-feeds. Focused on building fast, reliable, and maintainable products with a strong emphasis on performance and user
-experience. Passionate about web development, particularly React, and continuously improving expertise in cross-platform
-and native technologies.<br>
+Full-Stack with 6+ years of professional experience building modern, scalable, and high-performance applications for
+web and mobile platforms. Strong expertise within the React ecosystem and a focus on applying modern development
+approaches, clean architecture, and best practices throughout the development process. Experienced in designing
+efficient solutions, writing maintainable code, and delivering fast and reliable products. Experienced in developing
+applications across frontend, mobile, and backend layers, implementing complex UI and business logic, optimizing API
+communication with caching strategies, and integrating features such as authentication, push notifications, analytics,
+payments, chat systems, and media feeds. Focused on building fast, reliable, and maintainable products with a strong
+emphasis on performance and user experience. Passionate about web development, particularly React, and continuously
+improving expertise in cross-platform and native technologies.<br>
 
 🇺🇦 Ukrainian - native<br>
 🇬🇧 English - upper-intermediate
